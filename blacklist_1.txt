@@ -8,3 +8,18 @@ www.megahause.de
 # Testseiten
 spiegel.de
 bild.de
+
+# blacklist
+yxsu5ufd2m.kameleoon.eu
+www.ecpms.net
+uribl.spameatingmonkey.net
+pixel.runative-syndicate.com
+ocsp.sectigo.com
+multi.surbl.org
+hop-game-elb-362735459.us-west-2.elb.amazonaws.com
+fresh15.spameatingmonkey.net
+ecpms.net
+1.0.0.127.zen.spamhaus.org
+1.0.0.127.sbl.spamhaus.org
+1.0.0.127.bl.score.senderscore.com
+1.0.0.127.bb.barracudacentral.org
