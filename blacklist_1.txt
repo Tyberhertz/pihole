@@ -23,3 +23,5 @@ ecpms.net
 1.0.0.127.sbl.spamhaus.org
 1.0.0.127.bl.score.senderscore.com
 1.0.0.127.bb.barracudacentral.org
+multi.surbl.org
+the-bitcoin-circuit.com
